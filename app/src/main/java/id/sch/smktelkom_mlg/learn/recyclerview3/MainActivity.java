@@ -6,6 +6,8 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import id.sch.smktelkom_mlg.learn.recyclerview3.R;
+
 public class MainActivity extends AppCompatActivity
 {
 
